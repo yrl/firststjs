@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yrl/firstR.git"
+    "url": "git+https://github.com/yrl/firststjs.git"
   },
   "keywords": ["scripts"],
   "author": "yrl",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yrl/firstR/issues"
+    "url": "https://github.com/yrl/firststjs/issues"
   },
-  "homepage": "https://github.com/yrl/firstR#readme",
+  "homepage": "https://github.com/yrl/firststjs#readme",
   "dependencies": {
     "@babel/preset-env": "^7.23.6"
   },
