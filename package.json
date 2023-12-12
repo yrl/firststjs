@@ -1,0 +1,31 @@
+{
+  "name": "firststjs",
+  "version": "1.0.0",
+  "description": "自己的一个简单的库",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "rollup -c",
+    "serve": "rollup -c -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yrl/firstR.git"
+  },
+  "keywords": ["scripts"],
+  "author": "yrl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yrl/firstR/issues"
+  },
+  "homepage": "https://github.com/yrl/firstR#readme",
+  "dependencies": {
+    "@babel/preset-env": "^7.23.6"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.23.4",
+    "@babel/core": "^7.23.6",
+    "@babel/preset-env": "^7.23.6",
+    "@rollup/plugin-babel": "^6.0.4",
+    "rollup": "^4.8.0"
+  }
+}
